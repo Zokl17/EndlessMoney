@@ -80,6 +80,7 @@ app/
 │   └── navigation/
 │
 └── di/
+```
 Data Layer
 
 Слой data отвечает за работу с данными.
